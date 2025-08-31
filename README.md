@@ -98,6 +98,7 @@ Importação de Notas: Coloque um arquivo .csv na pasta de entrada e execute pyt
 Onboarding de Clientes: Insira um novo cliente no banco de dados e execute python scripts/onboarding_clientes.py para ver o card ser criado automaticamente no Trello.
 
 ✨ Habilidades Demonstradas
+
 Automação de Processos (ETL): Desenvolvimento de scripts para extrair, transformar e carregar dados entre diferentes fontes (arquivos, banco de dados).
 
 Integração com APIs REST: Consumo de serviços externos (Trello) para automação de workflows e processos de negócio.
